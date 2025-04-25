@@ -1,0 +1,13 @@
+{
+  "Log" : {
+    "FileDestination" : "log/app.log"
+  },
+  "Bdd" : {
+    "Host" : "localhost",
+    "User" : "root",
+    "Password" : "root",
+    "DataBase" : "SpotifyClone",
+    "Port" : "8889"
+  }
+}
+
